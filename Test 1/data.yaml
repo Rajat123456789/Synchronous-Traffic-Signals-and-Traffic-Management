@@ -1,0 +1,13 @@
+train: ./data/train/images
+val: ./data/valid/images
+test: ./data/test/images
+
+nc: 3
+names: ['Green Signal', 'Red Signal', 'Yellow Signal']
+
+roboflow:
+  workspace: traffic-monitoring-ignhx
+  project: traffic-singal-labels
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/traffic-monitoring-ignhx/traffic-singal-labels/dataset/1

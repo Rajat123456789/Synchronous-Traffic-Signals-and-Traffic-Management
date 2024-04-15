@@ -1,0 +1,3 @@
+Video_02.mp4 filter=lfs diff=lfs merge=lfs -text
+Test[[:space:]]1/Sequence[[:space:]]01.mp4 filter=lfs diff=lfs merge=lfs -text
+Test[[:space:]]1/runs/detect/predict/Sequence[[:space:]]01.avi filter=lfs diff=lfs merge=lfs -text
